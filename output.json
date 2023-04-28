@@ -1,0 +1,15 @@
+{
+    "main_thruster": [
+        0,
+        8,
+        6,
+        0
+    ],
+    "sec_thruster": [
+        2,
+        4,
+        0,
+        2
+    ],
+    "delta_velocity": 18
+}
